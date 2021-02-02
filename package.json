@@ -10,13 +10,13 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "1.9.12",
+    "@quasar/extras": "1.9.15",
     "@vue/composition-api": "0.6.7",
-    "core-js": "3.8.1",
+    "core-js": "3.8.3",
     "quasar": "1.14.7"
   },
   "devDependencies": {
-    "@quasar/app": "2.1.13",
+    "@quasar/app": "2.1.14",
     "@types/node": "10.17.49",
     "@typescript-eslint/eslint-plugin": "3.10.1",
     "@typescript-eslint/parser": "3.10.1",
