@@ -1036,10 +1036,10 @@
     core-js "^3.6.5"
     core-js-compat "^3.6.5"
 
-"@quasar/extras@1.9.17":
-  version "1.9.17"
-  resolved "https://registry.yarnpkg.com/@quasar/extras/-/extras-1.9.17.tgz#1fbe4535b601b31f08f79219452ba54319d4f597"
-  integrity sha512-kZTHP+DY9BdGWRhKr2eCnmXXf0QYYh+7fse0lOnDZ1hFjPY7NbKDk8rpLUQ9NLAXiYNIHXkR59Ez+tkdk5I5KA==
+"@quasar/extras@1.10.0":
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/@quasar/extras/-/extras-1.10.0.tgz#1cf13d299e80e1396b2f982e1663b89dd54f3e8e"
+  integrity sha512-H71Y/6pxunwiEN+oo9OBGM96ncM2QreVdnb2t2iStVHduju3nnypw9euBCshhYxKE/ORHZoOBRDoiddUOyaUdA==
 
 "@quasar/fastclick@1.1.4":
   version "1.1.4"
@@ -1189,10 +1189,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.14.tgz#f7fd5f3cc8521301119f63910f0fb965c7d761ae"
   integrity sha512-UHnOPWVWV1z+VV8k6L1HhG7UbGBgIdghqF3l9Ny9ApPghbjICXkUJSd/b9gOgQfjM1r+37cipdw/HJ3F6ICEnQ==
 
-"@types/node@10.17.54":
-  version "10.17.54"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.54.tgz#a737488631aca3ec7bd9f6229d77f1079e444793"
-  integrity sha512-c8Lm7+hXdSPmWH4B9z/P/xIXhFK3mCQin4yCYMd2p1qpMG5AfgyJuYZ+3q2dT7qLiMMMGMd5dnkFpdqJARlvtQ==
+"@types/node@10.17.55":
+  version "10.17.55"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.55.tgz#a147f282edec679b894d4694edb5abeb595fecbd"
+  integrity sha512-koZJ89uLZufDvToeWO5BrC4CR4OUfHnUz2qoPs/daQH6qq3IN62QFxCTZ+bKaCE0xaoCAJYE4AXre8AbghCrhg==
 
 "@types/q@^1.5.1":
   version "1.5.4"
@@ -2725,10 +2725,10 @@ core-js-compat@^3.6.5, core-js-compat@^3.8.0:
     browserslist "^4.15.0"
     semver "7.0.0"
 
-core-js@3.9.0:
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.9.0.tgz#790b1bb11553a2272b36e2625c7179db345492f8"
-  integrity sha512-PyFBJaLq93FlyYdsndE5VaueA9K5cNB7CGzeCj191YYLhkQM0gdZR2SKihM70oF0wdqKSKClv/tEBOpoRmdOVQ==
+core-js@3.9.1:
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.9.1.tgz#cec8de593db8eb2a85ffb0dbdeb312cb6e5460ae"
+  integrity sha512-gSjRvzkxQc1zjM/5paAmL4idJBFzuJoo+jDjF1tStYFMV2ERfD02HhahhCGXUyHxQRG4yFKVSdO6g62eoRMcDg==
 
 core-js@^3.6.5:
   version "3.8.1"
