@@ -6833,10 +6833,10 @@ qs@6.7.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
-quasar@1.15.11:
-  version "1.15.11"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.15.11.tgz#e43cc7b8669b61a5bc1ddc56966344829ed04251"
-  integrity sha512-H7pNPS5+vlL4uqvhaS6yepUfLvrS64989PSHSqM01w/uG6Ccwz6sSsZKSGkNM8j4ccsDK/8vt+1WhE9KQOhotQ==
+quasar@1.15.13:
+  version "1.15.13"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.15.13.tgz#04ca97bcdcd6fc8117e306216bf85af7233116f9"
+  integrity sha512-71h+IwSC5NocvinNHaxXqRWvIyx4DClcwi4iANHqmgYcpXPwWEgGAiE8lSaZMGyTkUC+e/yshRj57s6RvhoHHw==
 
 query-string@^4.1.0:
   version "4.3.4"
