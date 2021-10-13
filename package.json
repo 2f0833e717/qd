@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@quasar/extras": "1.11.1",
-    "@vue/composition-api": "1.1.5",
+    "@vue/composition-api": "1.2.4",
     "core-js": "3.18.1",
     "quasar": "2.1.0"
   },
