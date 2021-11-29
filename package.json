@@ -10,7 +10,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "1.11.2",
+    "@quasar/extras": "1.12.1",
     "@vue/composition-api": "1.4.0",
     "core-js": "3.19.1",
     "quasar": "2.3.3"
