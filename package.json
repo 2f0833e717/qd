@@ -24,7 +24,7 @@
     "eslint": "8.39.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-loader": "4.0.2",
-    "eslint-plugin-vue": "9.13.0"
+    "eslint-plugin-vue": "9.15.1"
   },
   "browserslist": [
     "last 10 Chrome versions",
