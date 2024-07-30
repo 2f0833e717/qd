@@ -20,7 +20,7 @@
     "@types/node": "20.14.9",
     "@typescript-eslint/eslint-plugin": "7.15.0",
     "@typescript-eslint/parser": "7.15.0",
-    "@babel/eslint-parser": "7.24.8",
+    "@babel/eslint-parser": "7.25.1",
     "eslint": "9.7.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-loader": "4.0.2",
