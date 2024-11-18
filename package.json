@@ -13,7 +13,7 @@
     "@quasar/extras": "1.16.13",
     "@vue/composition-api": "1.7.2",
     "core-js": "3.39.0",
-    "quasar": "2.17.1"
+    "quasar": "2.17.4"
   },
   "devDependencies": {
     "@quasar/app": "3.3.3",
