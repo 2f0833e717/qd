@@ -21,7 +21,7 @@
     "@typescript-eslint/eslint-plugin": "8.21.0",
     "@typescript-eslint/parser": "8.21.0",
     "@babel/eslint-parser": "7.26.5",
-    "eslint": "9.17.0",
+    "eslint": "9.18.0",
     "eslint-config-prettier": "10.0.1",
     "eslint-loader": "4.0.2",
     "eslint-plugin-vue": "9.32.0"
