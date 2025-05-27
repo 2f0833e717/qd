@@ -22,7 +22,7 @@
     "@typescript-eslint/parser": "8.21.0",
     "@babel/eslint-parser": "7.27.1",
     "eslint": "9.19.0",
-    "eslint-config-prettier": "10.1.2",
+    "eslint-config-prettier": "10.1.5",
     "eslint-loader": "4.0.2",
     "eslint-plugin-vue": "10.1.0"
   },
